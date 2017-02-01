@@ -1,2 +1,1 @@
-# action-castles
-Dumb game of castles for testing my libraries
+Just started and abandonded (for now). Need to work on more important stuff right now, but this is a tile-based realtime action/rts in an isometric top-down view. You need an xbox controller to play it, and it currently consists of a box you can move around in a 3D square tile world. There's a lot of bugs.
